@@ -32,6 +32,7 @@ public class HW03_01 {
 
 
 //------------------
+        System.out.println();
         System.out.println("------------------ test ------------------");
         LocalDate toDay = LocalDate.of(2018, 5, 22);
         System.out.println("today = " + toDay.toString());
